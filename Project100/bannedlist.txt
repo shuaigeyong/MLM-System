@@ -1,0 +1,2 @@
+M0004|lit xuan|M|040910-14-0307|litxuan@gmail.com|23, JALAN BATU, 12345 BUTTERWORTH, PULAU PINANG|zheng yang|#vbjwyd715QED|1|magenta|Enable|0
+M0006|zheng|M|040910-14-0305|zheng@gmail.com|23, JALAN BATU, 12345 BUTTERWORTH, PULAU PINANG|chin yong|#vbjwyd715QED|1|blue|Enable|0

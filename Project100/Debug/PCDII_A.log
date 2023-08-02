@@ -1,0 +1,23 @@
+﻿  staffmodule.c
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(110,7): warning C4101: 'content': unreferenced local variable
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(529,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(543,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'char *'
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(550,10): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(704,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(710,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(716,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(725,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(492,7): warning C4101: 'name': unreferenced local variable
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(921,12): warning C4098: 'deletestaff': 'void' function returning a value
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1074,17): warning C4028: formal parameter 1 different from declaration
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1106,21): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1124,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1260,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1261,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1283,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1289,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1295,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1304,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1113,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\staffmodule.c(1447,6): warning C4101: 'match': unreferenced local variable
+  PCDII_A.vcxproj -> C:\Users\tcy70\Desktop\Y1S3\C\PCDII_A\Debug\PCDII_A.exe
